@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\12345678\source\repos\Algorithms and Data structures\Largest Substring Palindrome\Largest Substring Palindrome\main.cpp(29,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12345678\source\repos\Algorithms and Data structures\Largest Substring Palindrome\Largest Substring Palindrome\main.cpp(30,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12345678\source\repos\Algorithms and Data structures\Largest Substring Palindrome\Largest Substring Palindrome\main.cpp(63,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Largest Substring Palindrome.vcxproj -> C:\Users\12345678\source\repos\Algorithms and Data structures\Largest Substring Palindrome\x64\Debug\Largest Substring Palindrome.exe

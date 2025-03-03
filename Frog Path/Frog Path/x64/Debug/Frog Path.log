@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\12345678\source\repos\Algorithms and Data structures\Frog Path\Frog Path\main.cpp(10,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12345678\source\repos\Algorithms and Data structures\Frog Path\Frog Path\main.cpp(11,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12345678\source\repos\Algorithms and Data structures\Frog Path\Frog Path\main.cpp(40,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Frog Path.vcxproj -> C:\Users\12345678\source\repos\Algorithms and Data structures\Frog Path\x64\Debug\Frog Path.exe

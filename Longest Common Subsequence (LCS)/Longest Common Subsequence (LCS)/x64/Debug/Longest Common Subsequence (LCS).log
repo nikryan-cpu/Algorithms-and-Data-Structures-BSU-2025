@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\12345678\source\repos\Algorithms and Data structures\Longest Common Subsequence (LCS)\Longest Common Subsequence (LCS)\main.cpp(27,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12345678\source\repos\Algorithms and Data structures\Longest Common Subsequence (LCS)\Longest Common Subsequence (LCS)\main.cpp(28,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12345678\source\repos\Algorithms and Data structures\Longest Common Subsequence (LCS)\Longest Common Subsequence (LCS)\main.cpp(61,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12345678\source\repos\Algorithms and Data structures\Longest Common Subsequence (LCS)\Longest Common Subsequence (LCS)\main.cpp(64,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Longest Common Subsequence (LCS).vcxproj -> C:\Users\12345678\source\repos\Algorithms and Data structures\Longest Common Subsequence (LCS)\x64\Debug\Longest Common Subsequence (LCS).exe
