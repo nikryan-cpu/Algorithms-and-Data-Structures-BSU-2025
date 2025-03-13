@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\Строго возр подпосл\main.cpp(28,28): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\Строго возр подпосл\main.cpp(33,53): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\Строго возр подпосл\main.cpp(37,30): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\Строго возр подпосл\main.cpp(42,30): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\Строго возр подпосл\main.cpp(47,55): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\Строго возр подпосл\main.cpp(51,32): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\Строго возр подпосл\main.cpp(56,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Строго возр подпосл.vcxproj -> C:\Users\12345678\source\repos\Algorithms and Data Structures\Algorithms-and-Data-Structures-BSU-2025\Строго возр подпосл\x64\Debug\Строго возр подпосл.exe
