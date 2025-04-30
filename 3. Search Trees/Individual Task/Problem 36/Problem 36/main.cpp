@@ -33,7 +33,7 @@ public:
 	}
 private:
 	int constructBST(vector<int>& preorder, int n, int pos, Node* curr, int left, int right) {
-		/*if (pos == n or preorder[pos] < left or preorder[pos] > right)
+		if (pos == n or preorder[pos] < left or preorder[pos] > right)
 			return pos;
 		//Left
 		if (preorder[pos] < curr->data) {
@@ -51,7 +51,6 @@ private:
 			pos = constructBST(preorder, n, pos, curr->right, curr->data, right);
 		}
 		return pos;
-		*/
 	}
 
 	void privateInorder(Node* curr, ofstream& out) {
